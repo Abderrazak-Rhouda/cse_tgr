@@ -1,0 +1,25 @@
+.container{
+    margin: auto;
+    height: 350Px;
+    padding: 10px;
+    margin-top: 180px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: none;
+}
+.btn-form{
+    background-color: rgb(235, 140, 52);
+    color: #fff;
+    border: 0px;
+    height: 35px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.dropdown-toggle{
+    width: 150px;
+}
+.container2{
+    
+}
